@@ -75,4 +75,4 @@ Then view the endpoints using:
 
 ## Contact
 
-For more information please contact kmturley
+For more information please contact ArtemSetnik
